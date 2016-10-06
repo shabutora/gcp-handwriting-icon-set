@@ -18,5 +18,5 @@ Google Cloud Platformの手書きで書いたアイコンセットです。
 
 ### Cloud Functions
 
-![functions](compute/cloud_functions.png)
+![functions](computing/cloud_functions.png)
 
