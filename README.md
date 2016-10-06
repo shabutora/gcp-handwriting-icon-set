@@ -2,6 +2,8 @@
 
 Google Cloud Platformの手書きで書いたアイコンセットです。
 
+**サイズは500pxで統一しています**
+
 ## Computing
 
 ### App Engine
