@@ -58,5 +58,5 @@ Google Cloud Platformの手書きで書いたアイコンセットです。
 
 ### Debug
 
-![debug](stackdriver/monitoring.png)
+![debug](stackdriver/debug.png)
 
